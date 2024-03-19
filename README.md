@@ -1,2 +1,2 @@
-# AI-Strory-Park
-AI-Strory Park
+# sketchbook
+Control Group for IDC2022

@@ -1,0 +1,38 @@
+{
+  "name": "BioSketchbook",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "better-scroll": "^2.4.2",
+    "core-js": "^3.4.3",
+    "hotkeys-js": "^3.7.3",
+    "paper": "^0.12.3",
+    "translate": "^1.4.1",
+    "uuid4": "^1.1.4",
+    "v-tooltip": "^2.0.3",
+    "vue": "^2.6.10",
+    "vue-color": "^2.7.0",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^3.2.0",
+    "vue-slider-component": "^3.1.1",
+    "vue-swatches": "^2.1.1",
+    "vuedraggable": "^2.23.2",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "^4.1.0",
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
